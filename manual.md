@@ -9,3 +9,5 @@
 - *git log* - show all commits
 - *git branch* 'New branch'- for create new branch 
 - *git push -u origin master* - how to add for GitHub
+
+![Git](Git.jpg)
