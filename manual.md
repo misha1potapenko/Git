@@ -7,3 +7,4 @@
 - *git commit* - for add comments
 - *git diff* - shows the differences between the last commit and the last save
 - *git log* - show all commits
+- *git branch* 'New branch'- for create new branch 
