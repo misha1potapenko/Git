@@ -17,3 +17,6 @@
 - add conflict
 
 ![Git](Git.jpg)
+
+## Conflict
+what do you do if you meet conflict
