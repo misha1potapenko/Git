@@ -1,5 +1,5 @@
 # Git
- Commands:
+ **Commands:**
 
 - *git init* - for make directory for Git
 - *git add* "file/dirrectory" - for add file or directory
@@ -9,5 +9,8 @@
 - *git log* - show all commits
 - *git branch* 'New branch'- for create new branch 
 - *git push -u origin master* - how to add for GitHub
+
+- *git checkout branch* - to switch to another branch
+
 
 ![Git](Git.jpg)
