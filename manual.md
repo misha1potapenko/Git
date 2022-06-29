@@ -14,6 +14,8 @@
 - *git merge branch* - for merging branches
 - *git log --graph* - show commits as a tree 
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
-- add conflict
 
 ![Git](Git.jpg)
+
+## Conflict
+__add to conflict__
