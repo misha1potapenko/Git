@@ -6,7 +6,7 @@
 - *git status* - for  show what change in git
 - *git commit* - for add comments
 - *git diff* - shows the differences between the last commit and the last save
-- * git log  - show all commits
+- *git log*  - show all commits
 - *git branch* 'New branch'- for create new branch 
 - *git push -u origin master* - how to add for GitHub
 - *git checkout branch* - to switch to another branch
@@ -14,7 +14,6 @@
 - *git merge branch* - for merging branches
 - *git log --graph* - show commits as a tree 
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
-- add conflict
 
 ![Git](Git.jpg)
 
@@ -23,3 +22,7 @@ what do you do if you meet conflict
 
 ## Conflict second
 no comments
+__add to conflict__
+
+## Conflict second for HW
+write something
