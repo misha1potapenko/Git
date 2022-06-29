@@ -1,5 +1,5 @@
 # Git
- **Commands:**
+ ## **Commands:**
 
 - *git init* - for make directory for Git
 - *git add  "file/dirrectory"* - for add file or directory  (*git add .*)
@@ -13,6 +13,6 @@
 - *git branch -d* - for delite branch
 - *git merge branch* - for merging branches
 - *git log --graph* - show commits as a tree 
-- *git switch -c (new branch) - if you delite branch and you want to create new branch with all information
+- *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
 
 ![Git](Git.jpg)
