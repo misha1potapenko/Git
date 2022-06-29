@@ -11,5 +11,6 @@
 - *git push -u origin master* - how to add for GitHub
 - *git checkout branch* - to switch to another branch
 - *git branch -d* - for delite branch
+- *git merge branch* - for merging branches
 
 ![Git](Git.jpg)
