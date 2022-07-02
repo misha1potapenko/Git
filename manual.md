@@ -15,6 +15,8 @@
 - *git log --graph* - show commits as a tree 
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
 
+- *git clone* - for clone a repository into a new directory
+- *git pull* - fetch from and integrate with another repository or a local branch
+
 ![Git](Git.jpg)
 
-- *git clone* - for clone a repository into a new directory
