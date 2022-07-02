@@ -16,3 +16,5 @@
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
 
 ![Git](Git.jpg)
+
+- *git clone* - for clone a repository into a new directory
