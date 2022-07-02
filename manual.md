@@ -18,6 +18,7 @@
 - *git clone* - for clone a repository into a new directory
 - *git pull* - fetch from and integrate with another repository or a local branch
 - *git fetch* - download objects and refs from another repository
+- *git push* - update remote refs along with associated objects
 
 ![Git](Git.jpg)
 
