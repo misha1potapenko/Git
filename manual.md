@@ -16,13 +16,3 @@
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
 
 ![Git](Git.jpg)
-
-## Conflict
-what do you do if you meet conflict
-
-## Conflict second
-no comments
-__add to conflict__
-
-## Conflict second for HW
-write something
